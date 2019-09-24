@@ -35,12 +35,31 @@ head {
 #menu ul li a:hover {
     background-color:#EDEDED;
     color: #6D6D6D;
-    border-bottom:3px solid #EA0000;
+    border-bottom:3px solid #0f6fff;
 }
 
 .corpo {
-    padding: 2px;
+    padding: 8px;
     margin-top: 5px;
     display: block;
     background-color: #D6D6D6;
+}
+
+footer a:hover{
+    color: #000000;
+    text-decoration: none;
+}
+
+footer a{
+    color: #D6D6D6;
+    text-decoration: none;
+}
+
+footer {
+    text-align: right;
+    padding: 8px;
+    margin-top: 5px;
+    display: block;
+    background-color: #002d70;
+    font-size: 14px;
 }

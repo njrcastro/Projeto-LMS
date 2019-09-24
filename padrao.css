@@ -39,6 +39,8 @@ head {
 }
 
 .corpo {
+    color: #333;    
+    height: 300px;  
     padding: 8px;
     margin-top: 5px;
     display: block;

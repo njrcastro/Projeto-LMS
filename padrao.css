@@ -1,3 +1,8 @@
+html {
+    padding: 0px;
+    width: 1366px;
+}
+
 body {
     background-color: #06152e;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -9,7 +14,6 @@ head {
 
 .logo {
     width: 15%;
-    margin-left: -30px;
 }
 
   #menu ul {
@@ -38,13 +42,33 @@ head {
     border-bottom:3px solid #0f6fff;
 }
 
-.corpo {
-    color: #333;    
-    height: 300px;  
-    padding: 8px;
-    margin-top: 5px;
-    display: block;
-    background-color: #D6D6D6;
+#esquerda {
+    float:left;
+     /* diminuimos a largura para não quebrar o layout. 
+      * valor antigo 220
+      */
+    height: 300px;
+    width: 300px;
+    margin: 10px 10px 10px 0px;
+    background:rgb(153, 153, 153);
+}
+#corpo {
+    float: left;
+    height: 300px;
+    max-width: 77%;
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+    background: #D6D6D6;
+}
+#direita {
+    float:left;
+    /*diminuimos a largura para não quebrar o layout
+    * valor antigo 220
+    */
+    height: 300px;
+    width: 300px;
+    margin: 10px 0px 10px 10px;
+    background:rgb(153, 153, 153);
 }
 
 footer a:hover{
@@ -58,9 +82,9 @@ footer a{
 }
 
 footer {
+    clear:both;
     text-align: right;
     padding: 8px;
-    margin-top: 5px;
     display: block;
     background-color: #002d70;
     font-size: 14px;

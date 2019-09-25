@@ -58,7 +58,7 @@ head {
 }
 #corpo {
     float: left;
-    height: 300px;
+    height: 100%;
     max-width: 74%;
     width: 100%;
     padding: 20px;

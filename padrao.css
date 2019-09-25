@@ -1,6 +1,6 @@
 html {
     padding: 0px;
-    width: 1366px;
+  
 }
 
 body {
@@ -21,6 +21,7 @@ head {
     margin:0px;
     background-color:#D6D6D6;
     list-style:none;
+    
 }
 
 #menu ul li { display: inline; }

@@ -1,0 +1,21 @@
+.paginaComanda{
+	margin-top:20px;
+    margin-left: 15px;
+    width:900px;
+	height:900px;
+    background-color:#D6D6D6;
+}
+
+.boxNew{
+    width:888px;
+    height:252px;
+    margin-left:1px;
+    background-color:red;	
+	border:solid #CCC; /*borda do botão*/
+	
+}
+
+h1{
+    text-transform: uppercase;
+    margin-top: auto;
+}

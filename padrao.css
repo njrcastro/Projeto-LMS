@@ -1,6 +1,13 @@
 html {
     padding: 0px;
+<<<<<<< HEAD
     overflow-y: scroll; 
+=======
+<<<<<<< HEAD
+  
+=======
+>>>>>>> 7d1bd0fb7072b099487d8e0ede4350f7f6ef541a
+>>>>>>> 22e8fbc41b4437326a39e0624b6404d6b167a564
 }
 
 body {
@@ -33,6 +40,7 @@ head {
     padding:0px;
     margin:0px;
     list-style:none;
+    
 }
 
 #menu ul li { display: inline; }

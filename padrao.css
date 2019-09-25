@@ -1,6 +1,9 @@
 html {
     padding: 0px;
+<<<<<<< HEAD
   
+=======
+>>>>>>> 7d1bd0fb7072b099487d8e0ede4350f7f6ef541a
 }
 
 body {
@@ -68,7 +71,8 @@ head {
     * valor antigo 220
     */
     height: 300px;
-    width: 300px;
+    width: 100%;
+    max-width: 22%;
     margin: 10px 0px 10px 10px;
     background:rgb(153, 153, 153);
 }

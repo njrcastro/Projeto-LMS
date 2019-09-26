@@ -73,9 +73,6 @@ head {
 }
 #direita {
     float:left;
-    /*diminuimos a largura para não quebrar o layout
-    * valor antigo 220
-    */
     height: 300px;
     width: 294px;
     margin: 10px 0px 10px 10px;
@@ -83,7 +80,7 @@ head {
 }
 
 footer a:hover{
-    color: #000000;
+    color: #0f6fff;;
     text-decoration: none;
 }
 
@@ -108,7 +105,7 @@ footer {
 }
 .rodaPeImg{
     position:absolute;
-    /* margin-left:650px; */
+    margin-left:650px; 
     margin-top: -4px;
     color: #FFF;
 }

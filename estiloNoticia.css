@@ -5,6 +5,12 @@
     background:rgb(19, 57, 76)
 }
 
+h1{
+    text-transform: uppercase;
+    margin-top: auto;
+    color: #13394c;
+}
+
 h2{
     text-transform: uppercase;
     color:#D6D6D6;

@@ -19,12 +19,11 @@
     padding: 10px;
     height: 100%;
     width: 900px;
-    margin-left: 150px;
-    background: #13394c;
-    color: #d6d6d6;
+    /* margin-left: 150px; */
+    background: #d6d6d6;
+    color: #13394c;
     border-radius:0px;
-	border:dashed;
-	border:solid #fff;
+	border:dashed #13394c;
 }
 h3{
     text-transform: uppercase;
@@ -33,5 +32,8 @@ h3{
 h1{
     text-transform: uppercase;
     margin-top: auto;
-    color:  #d6d6d6;
+    color:  #13394c;
+}
+table{
+    border: 1px solid;
 }

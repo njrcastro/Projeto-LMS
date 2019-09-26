@@ -92,6 +92,11 @@ footer a{
     text-decoration: none;
 }
 
+#direita {
+    text-align : center;
+    background:rgb(19, 57, 76)
+}
+
 footer {
     width: 1318px;
     clear:both;
@@ -103,7 +108,7 @@ footer {
 }
 .rodaPeImg{
     position:absolute;
-    margin-left:650px;
+    /* margin-left:650px; */
     margin-top: -4px;
     color: #FFF;
 }

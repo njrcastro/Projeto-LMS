@@ -82,7 +82,7 @@ head {
 }
 
 footer a:hover{
-    color: #000000;
+    color: #0f6fff;;
     text-decoration: none;
 }
 
@@ -107,7 +107,11 @@ footer {
 }
 .rodaPeImg{
     position:absolute;
+<<<<<<< HEAD
     margin-left:650px;
+=======
+    margin-left:615px; 
+>>>>>>> 2c753ed5eed9556c3de378c09c45da667726981f
     margin-top: -4px;
     color: #FFF;
 }

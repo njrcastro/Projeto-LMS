@@ -3,14 +3,12 @@
     background: #13394c;
     color: #d6d6d6;
 }
-
-
 .corpo {
     height: 100%;
     width: 1311px;
     margin-top:20px;
     padding: 10px;
-    background: #D6D6D6;
+    background: black;
 }
 
 .boxVerde{
@@ -20,4 +18,7 @@
     margin-left: 150px;
     background: #13394c;
     color: #d6d6d6;
+}
+.table{
+
 }

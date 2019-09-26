@@ -63,19 +63,18 @@ head {
     margin: 10px 10px 10px 0px;
     background:rgb(153, 153, 153);
 }
+
 #corpo {
     float: left;
     height: 100%;
-    width: 989px;
+    width: 966px;
     padding: 20px;
     margin: 10px 0px 10px 0px;
     background: #D6D6D6;
 }
+
 #direita {
     float:left;
-    /*diminuimos a largura para não quebrar o layout
-    * valor antigo 220
-    */
     height: 300px;
     width: 294px;
     margin: 10px 0px 10px 10px;
@@ -108,7 +107,7 @@ footer {
 }
 .rodaPeImg{
     position:absolute;
-    /* margin-left:650px; */
+    margin-left:650px;
     margin-top: -4px;
     color: #FFF;
 }

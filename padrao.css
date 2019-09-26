@@ -101,3 +101,10 @@ footer {
     background-color: #002d70;
     font-size: 14px;
 }
+.rodaPeImg{
+    position:absolute;
+    margin-left:650px;
+    margin-top: -4px;
+    color: #FFF;
+}
+

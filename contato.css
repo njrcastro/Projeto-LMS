@@ -24,3 +24,15 @@ p{
     padding: 10px;
     color: #13394c;
 }
+
+.imgMaps{
+    position:absolute;
+    display:table-cell;
+    margin-top: 300px;
+    margin-left:450px;
+    float:left;
+}
+.a{
+    width:"1500";
+    height:"900";
+}

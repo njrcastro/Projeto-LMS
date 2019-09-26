@@ -32,5 +32,13 @@ table{
     border-radius:4px;
     margin-left: 50px;
 }
+table td{
+    line-height: 25px; 
+}
 
-
+.imagem{
+    float:left;
+    margin-left: 1200px;
+    margin: 10px  10px 10px 30px;
+   
+}

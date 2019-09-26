@@ -63,14 +63,16 @@ head {
     margin: 10px 10px 10px 0px;
     background:rgb(153, 153, 153);
 }
+
 #corpo {
     float: left;
     height: 100%;
-    width: 989px;
+    width: 966px;
     padding: 20px;
     margin: 10px 0px 10px 0px;
     background: #D6D6D6;
 }
+
 #direita {
     float:left;
     height: 300px;
@@ -105,7 +107,15 @@ footer {
 }
 .rodaPeImg{
     position:absolute;
+<<<<<<< HEAD
     margin-left:590px; 
+=======
+<<<<<<< HEAD
+    margin-left:650px;
+=======
+    margin-left:615px; 
+>>>>>>> 2c753ed5eed9556c3de378c09c45da667726981f
+>>>>>>> 716ff2ce5ba325e5ce4069c30659a9cc26b88610
     margin-top: -4px;
     color: #FFF;
 }

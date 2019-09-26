@@ -1,0 +1,25 @@
+.comandatbl{
+    padding: 10px;
+    background: #13394c;
+    color: #d6d6d6;
+}
+
+.comandaA {
+    float:left;
+    /*diminuimos a largura para não quebrar o layout
+    * valor antigo 220
+    */
+    height: 300px;
+    width: 294px;
+    margin: 10px 0px 10px 10px;
+    background:rgb(153, 153, 153);
+}
+
+.corpo {
+    height: 100%;
+    width: 989px;
+    margin-left: 150px;
+    margin-top:20px;
+    padding: 10px;
+    background: #D6D6D6;
+}

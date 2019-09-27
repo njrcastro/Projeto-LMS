@@ -7,6 +7,7 @@ h1{
 h3{
     text-transform: uppercase;
     margin: auto;
+    color: #13394c; 
 }
 
 p{
@@ -16,7 +17,7 @@ p{
     color:  #13394c;
 }
 
-li{
+.detalhecurso li{
     text-transform: uppercase;
     margin: auto;
     font-size: 14px;

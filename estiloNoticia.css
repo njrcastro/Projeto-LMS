@@ -24,14 +24,14 @@ h2{
     background: #13394c;
     color: #d6d6d6;
     width:980px;
-    height:300px;
+    height:305px;
 
 }
 
 .imagem{
-    margin-top:25px;
-    width:270px;
-    height:250px;
+    margin-top:auto;
+    width:280px;
+    height:300px;
     position:absolute;
     
 }
@@ -49,6 +49,9 @@ h2{
     color: white;
     float: left;
 }
-
-
-
+.BoxImg{
+    float:left;
+    height: 300px;
+    width: 294px;
+    margin: 20px 25px 10px 30px;
+}
